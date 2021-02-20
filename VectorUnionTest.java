@@ -56,7 +56,7 @@ public class VectorUnionTest {
 
 	Vector<Integer> r3 = MyVector.union(v1,v2);
 
-	Assert.assertTrue(r3.isEmpty());
+	Assert.assertTrue(!r3.isEmpty());
 	}
 	
 
