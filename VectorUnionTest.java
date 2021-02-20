@@ -39,7 +39,7 @@ public class VectorUnionTest {
 	@Test
 	public void testFailureTest() {
 		
-	/ Declaring the Vector with 
+	// Declaring the Vector with 
         // initial size n 
         Vector<Integer> v1 = new Vector<Integer>(n); 
         Vector<Integer> v2 = new Vector<Integer>(n); 
